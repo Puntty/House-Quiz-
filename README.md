@@ -1,7 +1,7 @@
 <html>
 <head>
   <title>Recommend Food!</title>
-  <link rel="stylesheet" href="style.css"/>
+  <link rel="stylesheet" href="CSS.css"/>
 <style>
 </style>
 </head>
